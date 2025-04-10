@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kafka
+  datasource:
+    url: jdbc:postgresql://localhost:5432/rb
+    username: postgres
+    password: QweAsd123
